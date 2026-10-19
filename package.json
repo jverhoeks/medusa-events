@@ -1,6 +1,6 @@
 {
   "name": "@jverhoeks/medusa-events",
-  "version": "0.1.0-rc.1",
+  "version": "0.1.0-rc.2",
   "description": "Manage and publish event listings with Medusa v2",
   "license": "MIT",
   "author": "Jacob Verhoeks",

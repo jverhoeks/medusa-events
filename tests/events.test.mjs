@@ -1,6 +1,6 @@
 import { test } from "node:test"
 import assert from "node:assert/strict"
-import { eventInstant, eventInput } from "../src/lib/event-time.ts"
+import { eventInstant, eventInput } from "../src/admin/lib/event-time.ts"
 import { EventBody, EventList } from "../src/lib/validators.ts"
 
 const draft = { title: "Example market", starts_at: null, ends_at: null, time_zone: "Europe/Amsterdam", is_published: false }

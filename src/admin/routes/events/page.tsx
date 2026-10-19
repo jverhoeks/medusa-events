@@ -4,7 +4,7 @@ import { Badge, Button, Container, Drawer, Heading, Input, Label, Prompt, Switch
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query"
 import { useState, type FormEvent } from "react"
 import { sdk } from "../../lib/sdk"
-import { eventInstant, eventInput } from "../../../lib/event-time"
+import { eventInstant, eventInput } from "../../lib/event-time"
 
 type Event = {
   id: string; title: string; title_en: string | null; description: string | null; description_en: string | null
