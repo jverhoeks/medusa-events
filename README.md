@@ -1,6 +1,6 @@
 # Medusa Events
 
-A small events-listing plugin for Medusa v2.21.2. Manage events in the admin and
+A small events-listing plugin for Medusa v2.22.1. Manage events in the admin and
 fetch published upcoming/ongoing listings for any storefront. This plugin does
 not sell tickets, import Facebook data or embed tracking widgets.
 
